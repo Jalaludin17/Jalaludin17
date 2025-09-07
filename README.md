@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 🚀 
   
-   Hi, I'm Jalal 😄
+   I'm Jalal Ud Din Babar😄
 </h1>
 
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 Lecturer at AJ Science College   
 - ✍️ I write a newsletter called [*Machine learning by hand*](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7230745518446886912)  
-- 📹 YouTube Channel [*getsetpython*](https://www.youtube.com/getsetpython)
+- 📹 YouTube Channel [*JalaluddinBabar*](https://www.youtube.com/getsetpython)
 - 🌱 Learning: Advanced Statistics, Bayesian Modeling, and MLOps
 - 🔧 Technologies I work with: C++, Python, AWS and more
 - ⚡ Fun fact: I love exploring new tech and solving challenging problems!
@@ -46,9 +46,16 @@
 ---
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=umangahuja1&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" alt="umangahuja1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umangahuja1&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=10&card_width=325" alt="umangahuja1" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jalaludin17&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" alt="Jalaludin17" />
+</p>
+
+<p>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jalaludin17&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=10&card_width=325" alt="Jalaludin17" />
+</p>
+
 ---
 
 ⭐ _“Turning data into insights, and insights into action.”_

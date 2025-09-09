@@ -4,10 +4,12 @@
 </h1>
 
 <div align="center">
+  
 ![](https://komarev.com/ghpvc/?username=umangahuja1&abbreviated=true&style=for-the-badge)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@JalaluddinB)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalal-ud-din-babar-726389210/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/m7WpJduQ9BY)
+
 </div>
 
 ### About me

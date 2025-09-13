@@ -49,12 +49,13 @@
 
 ## 📊 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jalaludin17&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalaludin17&layout=compact&theme=swift" />
-
+<div style="display: flex; gap: 10px;">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Jalaludin17&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" alt="GitHub Stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalaludin17&layout=donut&theme=swift" alt="Top Languages Donut Chart" />
+</div>
 
 ---
+
 <br><br>
 ### 🚀 My Projects
 

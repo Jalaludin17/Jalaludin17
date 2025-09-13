@@ -58,16 +58,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jalaludin17&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=10&card_width=325" alt="Jalaludin17" />
 </p>
 
+
 ---
 
 ### 🚀 My Projects
-
+<p>
 - [Web Development Projects](https://jalaludin17.github.io/Calculator/) - Deployed web development projects
 - [Machine Learning Projects](https://github.com/Jalaludin17?tab=repositories&q=machine+learning) - Projects including models and algorithms in ML.
 - [Deep Learning Projects](https://github.com/Jalaludin17?tab=repositories&q=deep+learning) - Neural networks and DL implementations.
 - [Generative AI Projects](https://github.com/Jalaludin17?tab=repositories&q=genai) - Projects related to generative AI and AI art.
-
+</p>
 ---
+
 ⭐ _“Turning data into insights, and insights into action.”_
 
 

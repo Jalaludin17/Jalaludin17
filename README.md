@@ -56,13 +56,53 @@
 
 ---
 
-<br><br>
 ### 🚀 My Projects
 
 - [Web Development Projects](https://jalaludin17.github.io/Calculator/) - Deployed web development projects
 - [Machine Learning Projects](https://github.com/Jalaludin17?tab=repositories&q=machine+learning) - Projects including models and algorithms in ML.
 - [Deep Learning Projects](https://github.com/Jalaludin17?tab=repositories&q=deep+learning) - Neural networks and DL implementations.
 - [Generative AI Projects](https://github.com/Jalaludin17?tab=repositories&q=genai) - Projects related to generative AI and AI art.
+
+---
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/username/project1">
+        <img src="https://link-to-project1-image.png" alt="Project 1" width="300" />
+        <br />
+        <b>Project 1</b>
+      </a>
+      <p>A short description of Project 1.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/username/project2">
+        <img src="https://link-to-project2-image.png" alt="Project 2" width="300" />
+        <br />
+        <b>Project 2</b>
+      </a>
+      <p>A short description of Project 2.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/username/project3">
+        <img src="https://link-to-project3-image.png" alt="Project 3" width="300" />
+        <br />
+        <b>Project 3</b>
+      </a>
+      <p>A short description of Project 3.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/username/project4">
+        <img src="https://link-to-project4-image.png" alt="Project 4" width="300" />
+        <br />
+        <b>Project 4</b>
+      </a>
+      <p>A short description of Project 4.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 

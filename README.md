@@ -57,10 +57,11 @@
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jalaludin17&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=10&card_width=325" alt="Jalaludin17" />
 </p>
-<br><br>
+<p>
+</p>
 ---
 <br><br>
-## 🚀 My Projects
+### 🚀 My Projects
 
 - [Web Development Projects](https://jalaludin17.github.io/Calculator/) - Deployed web development projects
 - [Machine Learning Projects](https://github.com/Jalaludin17?tab=repositories&q=machine+learning) - Projects including models and algorithms in ML.

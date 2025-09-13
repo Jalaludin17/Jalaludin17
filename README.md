@@ -69,7 +69,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/username/project1">
-        <img src="https://link-to-project1-image.png" alt="Project 1" width="300" />
+        <img src="https://www.google.com/search?sca_esv=fe20a2f1dbc090c9&sxsrf=AE3TifPNYq_2NBFfSungbuWn-TZtyBxYxQ:1757795923868&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOha3O1YqG67F0QIhAOFN_ob1xGdzU5Cnyn-oUzTul2B5TXRzAeIy3FI7wzggwHPeZE5cVxJF3TSy6VJy__A91WVw8jso2MVzslHtne5IBzFZ7wiBgKvuGJadfgZ9to9wUGx5Slqn&q=machine+learning+models&sa=X&sqi=2&ved=2ahUKEwjN0YSNzNaPAxUmUqQEHQrpN3EQtKgLegQIFhAB&biw=1280&bih=593&dpr=1.5#vhid=rsL2PgiYk4PC5M&vssid=mosaic" alt="Project 1" width="300" />
         <br />
         <b>Project 1</b>
       </a>

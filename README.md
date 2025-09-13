@@ -57,8 +57,9 @@
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jalaludin17&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=10&card_width=325" alt="Jalaludin17" />
 </p>
-<p>
-</p>
+
+---
+
 ---
 <br><br>
 ### 🚀 My Projects

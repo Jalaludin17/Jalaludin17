@@ -54,7 +54,7 @@
 </p>
 
 <p>
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalaludin17&layout=compact&theme=default)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 

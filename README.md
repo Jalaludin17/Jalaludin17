@@ -42,13 +42,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="90" height="70"/></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="90" height="70"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="48"/></a>
-
-
-
-
-
-  
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="48"/></a> 
 </p> 
 
 ---
@@ -65,9 +59,10 @@
 </p>
 
 ---
+
 ### 🚀 My Projects
 
-- [Web Development Projects](https://github.com/Jalaludin17?tab=repositories&q=web+development) - A collection of my web development work with HTML, CSS, JavaScript.
+- [Web Development Projects](https://jalaludin17.github.io/Calculator/) - Deployed web development projects
 - [Machine Learning Projects](https://github.com/Jalaludin17?tab=repositories&q=machine+learning) - Projects including models and algorithms in ML.
 - [Deep Learning Projects](https://github.com/Jalaludin17?tab=repositories&q=deep+learning) - Neural networks and DL implementations.
 - [Generative AI Projects](https://github.com/Jalaludin17?tab=repositories&q=genai) - Projects related to generative AI and AI art.

@@ -60,14 +60,13 @@
 
 
 ---
+## 🚀 My Projects
 
-### 🚀 My Projects
-<p>
 - [Web Development Projects](https://jalaludin17.github.io/Calculator/) - Deployed web development projects
 - [Machine Learning Projects](https://github.com/Jalaludin17?tab=repositories&q=machine+learning) - Projects including models and algorithms in ML.
 - [Deep Learning Projects](https://github.com/Jalaludin17?tab=repositories&q=deep+learning) - Neural networks and DL implementations.
 - [Generative AI Projects](https://github.com/Jalaludin17?tab=repositories&q=genai) - Projects related to generative AI and AI art.
-</p>
+
 ---
 
 ⭐ _“Turning data into insights, and insights into action.”_

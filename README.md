@@ -49,13 +49,9 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jalaludin17&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" alt="Jalaludin17" />
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jalaludin17&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" />
 
-<p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalaludin17&layout=compact&theme=swift" />
 
 
 ---

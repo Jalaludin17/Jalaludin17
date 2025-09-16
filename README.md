@@ -66,4 +66,4 @@
 
 ⭐ _“Turning data into insights, and insights into action.”_
 
-
+![snake gif](https://github.com/Jalaludin17/Jalaludin17/blob/output/github-snake-dark.svg)

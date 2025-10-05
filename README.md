@@ -49,7 +49,7 @@
 ## 📊 GitHub Stats
 
 <div style="display: flex; gap: 10px;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Jalaludin17&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" alt="GitHub Stats" />
+  <img height="210" src="https://github-readme-stats.vercel.app/api?username=Jalaludin17&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" alt="GitHub Stats" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalaludin17&layout=donut&theme=swift" alt="Top Languages Donut Chart" />
 </div>
 
@@ -61,7 +61,7 @@
   <tr>
     <td width="50%" style="border: 2px solid #39FF14; border-radius: 16px; padding: 20px;">
       <div align="center">
-        <img src="heart_disease_pred.jpg" alt="Heart Disease Prediction System" width="300" height="200" style="border-radius: 12px;"/>
+        <img src="heart_disease_pred.png" alt="Heart Disease Prediction System" width="300" height="200" style="border-radius: 12px;"/>
         <h3>Heart Disease Prediction System</h3>
         <p align="justify">This Heart Disease Prediction System uses advanced machine learning to assess health data and estimate heart disease risk instantly. Empower timely health decisions with accurate, AI-driven predictions.</p>
         <a href="https://jalaludin17.github.io/chd-prediction/">Test it</a>
@@ -79,7 +79,7 @@
   <tr>
     <td width="50%" style="border: 2px solid #39FF14; border-radius: 16px; padding: 20px;">
       <div align="center">
-        <img src="Small-Language-Models.jpg" alt="Small Language Model" width="300" height="200" style="border-radius: 12px;"/>
+        <img src="Small-Language-Models.png" alt="Small Language Model" width="300" height="200" style="border-radius: 12px;"/>
         <h3>Small Language Model</h3>
         <p align="justify">This small language model was developed entirely from scratch, showcasing core NLP architecture and training pipeline design. It demonstrates fundamental principles of tokenization, embedding, and sequence generation in a minimal yet functional implementation.</p>
         <a href="https://project-3-url.com">Test it</a>
@@ -87,7 +87,7 @@
     </td>
     <td width="50%" style="border: 2px solid #39FF14; border-radius: 16px; padding: 20px;">
       <div align="center">
-        <img src="yolo-object-detection.jpg" alt="Hand Sign Language Detection" width="300" height="200" style="border-radius: 12px;"/>
+        <img src="yolo-object-detection.png" alt="Hand Sign Language Detection" width="300" height="200" style="border-radius: 12px;"/>
         <h3>Hand Sign Language Detection</h3>
         <p align="justify">This hand sign detection project leverages YOLO's real-time object detection capability combined with OpenCV for effective hand gesture recognition. It enables accurate and efficient identification of various hand signs from live video streams or images.</p>
         <a href="https://project-4-url.com">View</a>

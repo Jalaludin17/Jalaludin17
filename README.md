@@ -64,23 +64,23 @@
 - [Generative AI Projects](https://github.com/Jalaludin17?tab=repositories&q=genai) - Projects related to generative AI and AI art.
 
 ---
-<div style="display: flex; gap: 15px;">
-
-  <div style="background: #fff; border-radius: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); padding: 20px; width: 320px; margin-bottom: 20px;">
-    <img src="heart_disease_pred.jpg" alt="Heart Disease Prediction System" width="250" style="border-radius: 12px;">
-    <h3>Heart Disease Prediction System</h3>
-    <p>This Heart Disease Prediction System uses advanced machine learning to assess health data and estimate heart disease risk instantly. Empower timely health decisions with accurate, AI-driven predictions.</p>
-    <a href="https://jalaludin17.github.io/chd-prediction/">test it›</a>
-  </div>
-
-
-  <div style="background: #fff; border-radius: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); padding: 20px; width: 320px; margin-bottom: 20px;">
-    <img src="End-Stage-Renal-Disease.jpg" alt="Coronary Kidney Detection Prediction" width="250" style="border-radius: 12px;">
-    <h3>Coronary Kidney Detection Prediction</h3>
-    <p>This Coronary Kidney Detection Prediction project implements a comprehensive machine learning solution, inspired by research, to predict cardiovascular risks in chronic kidney disease patients.</p>
-    <a href="https://your-link-here.com">test it›</a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="background: #fff; border-radius: 16px; padding: 15px; width: 320px; vertical-align: top; box-shadow: 0 1px 4px #ccc;">
+      <img src="heart_disease_pred.jpg" alt="Heart Disease Prediction System" width="250" style="border-radius: 12px;">
+      <h3>Heart Disease Prediction System</h3>
+      <p>This Heart Disease Prediction System uses advanced machine learning to assess health data and estimate heart disease risk instantly. Empower timely health decisions with accurate, AI-driven predictions.</p>
+      <a href="https://jalaludin17.github.io/chd-prediction/">test it</a>
+    </td>
+    <td style="width: 20px;"></td> <!-- spacer column -->
+    <td style="background: #fff; border-radius: 16px; padding: 15px; width: 320px; vertical-align: top; box-shadow: 0 1px 4px #ccc;">
+      <img src="End-Stage-Renal-Disease.jpg" alt="Coronary Kidney Detection Prediction" width="250" style="border-radius: 12px;">
+      <h3>Coronary Kidney Detection Prediction</h3>
+      <p>This Coronary Kidney Detection Prediction project implements a comprehensive machine learning solution, inspired by research, to predict cardiovascular risks in chronic kidney disease patients.</p>
+      <a href="https://your-link-here.com">test it</a>
+    </td>
+  </tr>
+</table>
 
 ---
 

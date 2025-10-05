@@ -64,6 +64,49 @@
 - [Generative AI Projects](https://github.com/Jalaludin17?tab=repositories&q=genai) - Projects related to generative AI and AI art.
 
 ---
+<table>
+  <tr>
+    <td>
+      <img src="URL_TO_IMAGE_1" alt="Business Growth" width="250"><br>
+      <b>Business Growth</b><br>
+      Morbi leo risus, porta ac consectetur vestibulum eros cras mattis consectetur purus sit...<br>
+      <a href="#">Read More ›</a>
+    </td>
+    <td>
+      <img src="URL_TO_IMAGE_2" alt="Working Desk" width="250"><br>
+      <b>Working Desk</b><br>
+      Morbi leo risus, porta ac consectetur vestibulum eros cras mattis consectetur purus sit...<br>
+      <a href="#">Read More ›</a>
+    </td>
+    <td>
+      <img src="URL_TO_IMAGE_3" alt="Mobile App" width="250"><br>
+      <b>Mobile App</b><br>
+      Morbi leo risus, porta ac consectetur vestibulum eros cras mattis consectetur purus sit...<br>
+      <a href="#">Read More ›</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="URL_TO_IMAGE_4" alt="Art & Beauty" width="250"><br>
+      <b>Art & Beauty</b><br>
+      Morbi leo risus, porta ac consectetur vestibulum eros cras mattis consectetur purus sit...<br>
+      <a href="#">Read More ›</a>
+    </td>
+    <td>
+      <img src="URL_TO_IMAGE_5" alt="Celebrations" width="250"><br>
+      <b>Celebrations</b><br>
+      Morbi leo risus, porta ac consectetur vestibulum eros cras mattis consectetur purus sit...<br>
+      <a href="#">Read More ›</a>
+    </td>
+    <td>
+      <img src="URL_TO_IMAGE_6" alt="Travling" width="250"><br>
+      <b>Travling</b><br>
+      Morbi leo risus, porta ac consectetur vestibulum eros cras mattis consectetur purus sit...<br>
+      <a href="#">Read More ›</a>
+    </td>
+  </tr>
+</table>
+---
 
 ⭐ _“Turning data into insights, and insights into action.”_
 

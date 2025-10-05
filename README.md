@@ -57,63 +57,46 @@
 
 ### 🚀 My Projects
 
-- [Web Development Projects](https://jalaludin17.github.io/Calculator/) - Deployed web development projects
-- [Machine Learning Projects](https://github.com/Jalaludin17?tab=repositories&q=machine+learning)   [1](https://jalaludin17.github.io/chd-prediction/) - Projects including models and algorithms in ML.
-- [Machine learning Applications]() - Projects including full deployment of ml applications
-- [Deep Learning Projects](https://github.com/Jalaludin17?tab=repositories&q=deep+learning) - Neural networks and DL implementations.
-- [Generative AI Projects](https://github.com/Jalaludin17?tab=repositories&q=genai) - Projects related to generative AI and AI art.
+## 🚀 My Projects
+
+<div align="center">
+
+### Heart Disease Prediction System
+<img src="heart_disease_pred.jpg" alt="Heart Disease Prediction System" width="300" height="200"/>
+
+This Heart Disease Prediction System uses advanced machine learning to assess health data and estimate heart disease risk instantly. Empower timely health decisions with accurate, AI-driven predictions.
+
+**[Test it](https://jalaludin17.github.io/chd-prediction/)**
 
 ---
-<table style="border-collapse: collapse; width: 100%;"> 
-  <tr>
-    <td style="border: 2px solid #39FF14; border-radius: 16px; padding: 15px; width: 320px; vertical-align: top; box-shadow: 0 1px 4px #ccc;">
-      <div style="text-align: center;">
-        <img src="heart_disease_pred.jpg" alt="Heart Disease Prediction System" width="300" height="200" style="object-fit: cover; border-radius: 12px;">
-      </div>
-      <h3 style="text-align: center;">Heart Disease Prediction System</h3>
-      <p style="text-align: justify;">This Heart Disease Prediction System uses advanced machine learning to assess health data and estimate heart disease risk instantly. Empower timely health decisions with accurate, AI-driven predictions.</p>
-      <div style="text-align: center;">
-        <a href="https://jalaludin17.github.io/chd-prediction/">Test it</a>
-      </div>
-    </td>
-    <td style="width: 20px;"></td>
-    <td style="border: 2px solid #39FF14; border-radius: 16px; padding: 15px; width: 320px; vertical-align: top; box-shadow: 0 1px 4px #ccc;">
-      <div style="text-align: center;">
-        <img src="End-Stage-Renal-Disease.jpg" alt="Coronary Kidney Detection Prediction" width="300" height="200" style="object-fit: cover; border-radius: 12px;">
-      </div>
-      <h3 style="text-align: center;">Coronary Kidney Detection Prediction</h3>
-      <p style="text-align: justify;">This Coronary Kidney Detection Prediction project implements a comprehensive machine learning solution, inspired by research, to predict cardiovascular risks in chronic kidney disease patients.</p>
-      <div style="text-align: center;">
-        <a href="https://your-link-here.com">Test it</a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 2px solid #39FF14; border-radius: 16px; padding: 15px; width: 320px; vertical-align: top; box-shadow: 0 1px 4px #ccc;">
-      <div style="text-align: center;">
-        <img src="Small-Language-Models.jpg" alt="Project 3" width="300" height="200" style="object-fit: cover; border-radius: 12px;">
-      </div>
-      <h3 style="text-align: center;">Small Language Model</h3>
-      <p style="text-align: justify;">This small language model was developed entirely from scratch, showcasing core NLP architecture and training pipeline design. It demonstrates fundamental principles of tokenization, embedding, and sequence generation in a minimal yet functional implementation.</p>
-      <div style="text-align: center;">
-        <a href="https://project-3-url.com">Test it</a>
-      </div>
-    </td>
-    <td style="width: 20px;"></td>
-    <td style="border: 2px solid #39FF14; border-radius: 16px; padding: 15px; width: 320px; vertical-align: top; box-shadow: 0 1px 4px #ccc;">
-      <div style="text-align: center;">
-        <img src="yolo-object-detection.jpg" alt="Project 4" width="300" height="200" style="object-fit: cover; border-radius: 12px;">
-      </div>
-      <h3 style="text-align: center;">Hand sign language detection</h3>
-      <p style="text-align: justify;">This hand sign detection project leverages YOLO's real-time object detection capability combined with OpenCV for effective hand gesture recognition. It enables accurate and efficient identification of various hand signs from live video streams or images.</p>
-      <div style="text-align: center;">
-        <a href="https://project-4-url.com">View</a>
-      </div>
-    </td>
-  </tr>
-  
-</table>
 
+### Coronary Kidney Detection Prediction
+<img src="End-Stage-Renal-Disease.jpg" alt="Coronary Kidney Detection Prediction" width="300" height="200"/>
+
+This Coronary Kidney Detection Prediction project implements a comprehensive machine learning solution, inspired by research, to predict cardiovascular risks in chronic kidney disease patients.
+
+**[Test it](https://your-link-here.com)**
+
+---
+
+### Small Language Model
+<img src="Small-Language-Models.jpg" alt="Small Language Model" width="300" height="200"/>
+
+This small language model was developed entirely from scratch, showcasing core NLP architecture and training pipeline design. It demonstrates fundamental principles of tokenization, embedding, and sequence generation in a minimal yet functional implementation.
+
+**[Test it](https://project-3-url.com)**
+
+---
+
+### Hand Sign Language Detection
+<img src="yolo-object-detection.jpg" alt="Hand Sign Language Detection" width="300" height="200"/>
+
+This hand sign detection project leverages YOLO's real-time object detection capability combined with OpenCV for effective hand gesture recognition. It enables accurate and efficient identification of various hand signs from live video streams or images.
+
+**[View](https://project-4-url.com)**
+
+</div>
+    
 ---
 
 ⭐ _“Turning data into insights, and insights into action.”_

@@ -64,36 +64,25 @@
 - [Generative AI Projects](https://github.com/Jalaludin17?tab=repositories&q=genai) - Projects related to generative AI and AI art.
 
 ---
-<table>
-  <tr>
-    <td>
-      <img src="heart_disease_pred.jpg" alt="Heart Disease Prediction System" width="250"><br>
-      <b>Heart Disease Prediction System</b><br>
-      This Heart Disease Prediction System uses advanced machine learning to assess health data and estimate heart disease risk instantly. Empower timely health decisions with accurate, AI-driven predictions.<br>
-      <a href="https://jalaludin17.github.io/chd-prediction/">test it›</a>
-    </td>
-    <td>
-      <img src="End-Stage-Renal-Disease.jpg" alt="Coronary Kidney Detection Prediction" width="250"><br>
-      <b>Coronary Kidney Detection Prediction</b><br>
-      This Coronary Kidney Detection Prediction project implements a comprehensive machine learning solution, inspired by research, to predict cardiovascular risks in chronic kidney disease patients.<br>
-      <a href="https://your-link-here.com">test it›</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="Small-Language-Models.jpg" alt="Small Language form sratch" width="250"><br>
-      <b>Small Language form sratch</b><br>
-      Morbi leo risus, porta ac consectetur vestibulum eros cras mattis consectetur purus sit...<br>
-      <a href="#">Read More ›</a>
-    </td>
-    <td>
-      <img src="URL_TO_IMAGE_5" alt="Celebrations" width="250"><br>
-      <b>Celebrations</b><br>
-      Morbi leo risus, porta ac consectetur vestibulum eros cras mattis consectetur purus sit...<br>
-      <a href="#">Read More ›</a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+
+  <div style="background: #fff; border-radius: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); padding: 20px; width: 320px; margin-bottom: 20px;">
+    <img src="heart_disease_pred.jpg" alt="Heart Disease Prediction System" width="250" style="border-radius: 12px;">
+    <h3>Heart Disease Prediction System</h3>
+    <p>This Heart Disease Prediction System uses advanced machine learning to assess health data and estimate heart disease risk instantly. Empower timely health decisions with accurate, AI-driven predictions.</p>
+    <a href="https://jalaludin17.github.io/chd-prediction/">test it›</a>
+  </div>
+
+  <div style="background: #fff; border-radius: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); padding: 20px; width: 320px; margin-bottom: 20px;">
+    <img src="End-Stage-Renal-Disease.jpg" alt="Coronary Kidney Detection Prediction" width="250" style="border-radius: 12px;">
+    <h3>Coronary Kidney Detection Prediction</h3>
+    <p>This Coronary Kidney Detection Prediction project implements a comprehensive machine learning solution, inspired by research, to predict cardiovascular risks in chronic kidney disease patients.</p>
+    <a href="https://your-link-here.com">test it›</a>
+  </div>
+
+  <!-- Repeat for other cards -->
+</div>
+
 ---
 
 ⭐ _“Turning data into insights, and insights into action.”_

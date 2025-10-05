@@ -64,7 +64,7 @@
 - [Generative AI Projects](https://github.com/Jalaludin17?tab=repositories&q=genai) - Projects related to generative AI and AI art.
 
 ---
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; gap: 15px;">
 
   <div style="background: #fff; border-radius: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); padding: 20px; width: 320px; margin-bottom: 20px;">
     <img src="heart_disease_pred.jpg" alt="Heart Disease Prediction System" width="250" style="border-radius: 12px;">
@@ -73,14 +73,13 @@
     <a href="https://jalaludin17.github.io/chd-prediction/">test it›</a>
   </div>
 
+
   <div style="background: #fff; border-radius: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); padding: 20px; width: 320px; margin-bottom: 20px;">
     <img src="End-Stage-Renal-Disease.jpg" alt="Coronary Kidney Detection Prediction" width="250" style="border-radius: 12px;">
     <h3>Coronary Kidney Detection Prediction</h3>
     <p>This Coronary Kidney Detection Prediction project implements a comprehensive machine learning solution, inspired by research, to predict cardiovascular risks in chronic kidney disease patients.</p>
     <a href="https://your-link-here.com">test it›</a>
   </div>
-
-  <!-- Repeat for other cards -->
 </div>
 
 ---

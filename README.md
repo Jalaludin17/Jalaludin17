@@ -77,7 +77,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" style="border: 2px solid #39FF14; border-radius: 16px; padding: 20px;">
+    <td width="50%" style="border: 2px solid #green; border-radius: 16px; padding: 20px;">
       <div align="center">
         <img src="Small-Language-Models.png" alt="Small Language Model" width="300" height="200" style="border-radius: 12px;"/>
         <h3>Small Language Model</h3>
@@ -85,7 +85,7 @@
         <a href="https://project-3-url.com">Test it</a>
       </div>
     </td>
-    <td width="50%" style="border: 2px solid #39FF14; border-radius: 16px; padding: 20px;">
+    <td width="50%" style="border: 2px solid #green; border-radius: 16px; padding: 20px;">
       <div align="center">
         <img src="yolo-object-detection.png" alt="Hand Sign Language Detection" width="300" height="200" style="border-radius: 12px;"/>
         <h3>Hand Sign Language Detection</h3>

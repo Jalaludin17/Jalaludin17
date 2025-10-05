@@ -67,22 +67,22 @@
 <table>
   <tr>
     <td>
-      <img src="URL_TO_IMAGE_1" alt="Business Growth" width="250"><br>
-      <b>Business Growth</b><br>
-      Morbi leo risus, porta ac consectetur vestibulum eros cras mattis consectetur purus sit...<br>
-      <a href="#">Read More ›</a>
+      <img src="heart_disease_pred.jpg" alt="Heart Disease Prediction System" width="250"><br>
+      <b>Heart Disease Prediction System</b><br>
+      This Heart Disease Prediction System uses advanced machine learning to assess health data and estimate heart disease risk instantly. Empower timely health decisions with accurate, AI-driven predictions.<br>
+      <a href="https://jalaludin17.github.io/chd-prediction/">test it›</a>
     </td>
     <td>
-      <img src="URL_TO_IMAGE_2" alt="Working Desk" width="250"><br>
-      <b>Working Desk</b><br>
-      Morbi leo risus, porta ac consectetur vestibulum eros cras mattis consectetur purus sit...<br>
-      <a href="#">Read More ›</a>
+      <img src="End-Stage-Renal-Disease.jpg" alt="Coronary Kidney Detection Prediction" width="250"><br>
+      <b>Coronary Kidney Detection Prediction</b><br>
+      This Coronary Kidney Detection Prediction project implements a comprehensive machine learning solution, inspired by research, to predict cardiovascular risks in chronic kidney disease patients.<br>
+      <a href="https://your-link-here.com">test it›</a>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="URL_TO_IMAGE_4" alt="Art & Beauty" width="250"><br>
-      <b>Art & Beauty</b><br>
+      <img src="Small-Language-Models.jpg" alt="Small Language form sratch" width="250"><br>
+      <b>Small Language form sratch</b><br>
       Morbi leo risus, porta ac consectetur vestibulum eros cras mattis consectetur purus sit...<br>
       <a href="#">Read More ›</a>
     </td>

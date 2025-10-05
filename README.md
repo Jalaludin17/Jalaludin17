@@ -78,12 +78,6 @@
       Morbi leo risus, porta ac consectetur vestibulum eros cras mattis consectetur purus sit...<br>
       <a href="#">Read More ›</a>
     </td>
-    <td>
-      <img src="URL_TO_IMAGE_3" alt="Mobile App" width="250"><br>
-      <b>Mobile App</b><br>
-      Morbi leo risus, porta ac consectetur vestibulum eros cras mattis consectetur purus sit...<br>
-      <a href="#">Read More ›</a>
-    </td>
   </tr>
   <tr>
     <td>
@@ -95,12 +89,6 @@
     <td>
       <img src="URL_TO_IMAGE_5" alt="Celebrations" width="250"><br>
       <b>Celebrations</b><br>
-      Morbi leo risus, porta ac consectetur vestibulum eros cras mattis consectetur purus sit...<br>
-      <a href="#">Read More ›</a>
-    </td>
-    <td>
-      <img src="URL_TO_IMAGE_6" alt="Travling" width="250"><br>
-      <b>Travling</b><br>
       Morbi leo risus, porta ac consectetur vestibulum eros cras mattis consectetur purus sit...<br>
       <a href="#">Read More ›</a>
     </td>

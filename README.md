@@ -61,7 +61,9 @@
   <tr>
     <td width="50%" style="border: 2px solid #39FF14; border-radius: 16px; padding: 20px;">
       <div align="center">
-        <img src="heart_disease_pred.png" alt="Heart Disease Prediction System" width="300" height="200" style="border-radius: 12px;"/>
+        <div style="display:inline-block; background:white; border-radius:16px; padding:8px; box-shadow:0 0 0 3px white, 0 6px 20px rgba(255,255,255,0.15); margin-bottom:10px;">
+          <img src="heart_disease_pred.png" alt="Heart Disease Prediction System" width="300" height="200" style="border-radius:10px; display:block;"/>
+        </div>
         <h3>Heart Disease Prediction System</h3>
         <p align="justify">This Heart Disease Prediction System uses advanced machine learning to assess health data and estimate heart disease risk instantly. Empower timely health decisions with accurate, AI-driven predictions.</p>
         <a href="https://jalaludin17.github.io/chd-prediction/">Test it</a>
@@ -69,7 +71,9 @@
     </td>
     <td width="50%" style="border: 2px solid #39FF14; border-radius: 16px; padding: 20px;">
       <div align="center">
-        <img src="End-Stage-Renal-Disease.jpg" alt="Coronary Kidney Detection Prediction" width="300" height="200" style="border-radius: 12px;"/>
+        <div style="display:inline-block; background:white; border-radius:16px; padding:8px; box-shadow:0 0 0 3px white, 0 6px 20px rgba(255,255,255,0.15); margin-bottom:10px;">
+          <img src="End-Stage-Renal-Disease.jpg" alt="Coronary Kidney Detection Prediction" width="300" height="200" style="border-radius:10px; display:block;"/>
+        </div>
         <h3>Coronary Kidney Detection Prediction</h3>
         <p align="justify">This Coronary Kidney Detection Prediction project implements a comprehensive machine learning solution, inspired by research, to predict cardiovascular risks in chronic kidney disease patients.</p>
         <a href="https://jalaludin17.github.io/CKD-Prediction/">Test it</a>
@@ -77,17 +81,21 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" style="border: 2px solid #green; border-radius: 16px; padding: 20px;">
+    <td width="50%" style="border: 2px solid #39FF14; border-radius: 16px; padding: 20px;">
       <div align="center">
-        <img src="Small-Language-Models.png" alt="Small Language Model" width="300" height="200" style="border-radius: 12px;"/>
+        <div style="display:inline-block; background:white; border-radius:16px; padding:8px; box-shadow:0 0 0 3px white, 0 6px 20px rgba(255,255,255,0.15); margin-bottom:10px;">
+          <img src="Small-Language-Models.png" alt="Small Language Model" width="300" height="200" style="border-radius:10px; display:block;"/>
+        </div>
         <h3>Small Language Model</h3>
         <p align="justify">This small language model was developed entirely from scratch, showcasing core NLP architecture and training pipeline design. It demonstrates fundamental principles of tokenization, embedding, and sequence generation in a minimal yet functional implementation.</p>
         <a href="https://project-3-url.com">In progress</a>
       </div>
     </td>
-    <td width="50%" style="border: 2px solid #green; border-radius: 16px; padding: 20px;">
+    <td width="50%" style="border: 2px solid #39FF14; border-radius: 16px; padding: 20px;">
       <div align="center">
-        <img src="yolo-object-detection.png" alt="Hand Sign Language Detection" width="300" height="200" style="border-radius: 12px;"/>
+        <div style="display:inline-block; background:white; border-radius:16px; padding:8px; box-shadow:0 0 0 3px white, 0 6px 20px rgba(255,255,255,0.15); margin-bottom:10px;">
+          <img src="yolo-object-detection.png" alt="Hand Sign Language Detection" width="300" height="200" style="border-radius:10px; display:block;"/>
+        </div>
         <h3>Hand Sign Language Detection</h3>
         <p align="justify">This hand sign detection project leverages YOLO's real-time object detection capability combined with OpenCV for effective hand gesture recognition. It enables accurate and efficient identification of various hand signs from live video streams or images.</p>
         <a href="https://project-4-url.com">In progress</a>

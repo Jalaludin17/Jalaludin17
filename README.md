@@ -61,7 +61,7 @@
   <tr>
     <td width="50%" style="border: 2px solid #39FF14; border-radius: 16px; padding: 20px;">
       <div align="center">
-        <img src="heart_disease_pred.png" alt="Heart Disease Prediction System" width="300" height="200" style="border-radius:12px; border: 8px solid white; outline: 3px solid white; border-radius: 16px;"/>
+        <img src="heart.gif" alt="Heart Disease Prediction System" width="300" height="200" style="border-radius:12px; border: 8px solid white; outline: 3px solid white; border-radius: 16px;"/>
         <h3>Heart Disease Prediction System</h3>
         <p align="justify">This Heart Disease Prediction System uses advanced machine learning to assess health data and estimate heart disease risk instantly. Empower timely health decisions with accurate, AI-driven predictions.</p>
         <a href="https://jalaludin17.github.io/chd-prediction/">Test it</a>
@@ -69,7 +69,7 @@
     </td>
     <td width="50%" style="border: 2px solid #39FF14; border-radius: 16px; padding: 20px;">
       <div align="center">
-        <img src="End-Stage-Renal-Disease.jpg" alt="Coronary Kidney Detection Prediction" width="300" height="200" style="border: 8px solid white; outline: 3px solid white; border-radius: 16px;"/>
+        <img src="kidney.gif" alt="Coronary Kidney Detection Prediction" width="300" height="200" style="border: 8px solid white; outline: 3px solid white; border-radius: 16px;"/>
         <h3>Coronary Kidney Detection Prediction</h3>
         <p align="justify">This Coronary Kidney Detection Prediction project implements a comprehensive machine learning solution, inspired by research, to predict cardiovascular risks in chronic kidney disease patients.</p>
         <a href="https://jalaludin17.github.io/CKD-Prediction/">Test it</a>
